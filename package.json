@@ -1,0 +1,12 @@
+{
+  "name": "tea-house_landing_page-main",
+  "version": "1.0.0",
+  "description": "Demo product Landing Page.. Tea House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
